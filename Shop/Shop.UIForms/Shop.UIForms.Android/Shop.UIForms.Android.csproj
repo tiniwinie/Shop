@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{65B3D907-EB2D-40B3-96E9-E72EE930B339}</ProjectGuid>
+    <ProjectGuid>{468DE6A7-EEA9-4171-B9D0-93866A4F0EF5}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -99,7 +99,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Shop.UIForms\Shop.UIForms.csproj">
-      <Project>{8B245E22-17E7-4E18-B585-62560E5C2C20}</Project>
+      <Project>{7C75B1FF-C3E6-4059-B9AB-50834091CAAA}</Project>
       <Name>Shop.UIForms</Name>
     </ProjectReference>
   </ItemGroup>
